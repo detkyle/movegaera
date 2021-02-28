@@ -28,4 +28,4 @@ Script for summon hauling ship and tooltip missions
 # Known bugs 
 1. Need to reload game after summon. Client dont update automatically.
 2. After complete mission tooltip may not wont work because script dont know that mission number has decreased and it causes undefined error. 
-3. Didnt tested with slower not H ships with speeds like 10-50 dont know what will happen. Gameengine UI have function to trip not have 14+ days.
+3. Didnt tested with slower not H ships with speeds like 10-50 dont know what will happen. Gameengine UI have function to trip not have 14+ days failsafe but script dont. Maybe server say invalid response.
