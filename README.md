@@ -11,9 +11,9 @@ Script for summon hauling ship and tooltip missions
 - Once installed, refresh page
 - You can configure your script manager to check for updates
 
-## Usage
+# Usage
 
-Use of ship summon
+## Use of ship summon
 0. Use only for H hull ships with decent speeds(trip less 14 days) or idk what will happen.
 1. Name your hauling ship for planet missions = hauler
 2. Go to planet you want ship be
@@ -25,7 +25,7 @@ Use of planet tooltip
 1. After login game cant see what missions you have so you need to go to planet missions to load them.
 2. Hover mouse on "S" button to see tooltip with all missions
 
-## known bugs 
+## Known bugs 
 1. Need to reload game after summon. Client dont update automatically.
 2. After complete mission tooltip may not wont work because script dont know that mission number has decreased and it causes undefined error. 
 3. Didnt tested with slower not H ships with speeds like 10-50 dont know what will happen. Gameengine UI have function to trip not have 14+ days.
