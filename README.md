@@ -7,6 +7,7 @@ Script for summon hauling ship and tooltip missions
 
 - Install [TamperMonkey](http://tampermonkey.net) or [ViolentMonkey](https://violentmonkey.github.io/get-it) for your browser
 - Go to the [install script](https://github.com/detkyle/movegaera/blob/main/movegaera.user.js)
+- Click RAW if automatically not start installing
 - Your script manager should prompt you to install script
 - Once installed, refresh page
 - You can configure your script manager to check for updates
