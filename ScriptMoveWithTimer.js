@@ -1,4 +1,4 @@
-
+(
 	$("body").append("<div id='move-root'/>"); //add div for html
 
 	$(document).ready(function() {
@@ -140,4 +140,5 @@
 }
 
 }
+)();
 )();
